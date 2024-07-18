@@ -44,7 +44,7 @@ To deploy and start using L3MON, follow these simple steps:
 1. **Clone the Repository:** Begin by cloning the L3MON repository to your server.
 
    ```sh
-   git clone https://github.com/your-username/l3mon.git
+   git clone https://github.com/veris1/l3mon.git
    ```
 
 2. **Install Dependencies:** Navigate to the cloned directory and install the required dependencies.
